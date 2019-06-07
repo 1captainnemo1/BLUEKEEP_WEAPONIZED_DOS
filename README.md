@@ -24,4 +24,6 @@ Installation instructions :
 
 <p><b>#Author :#Captain_Nemo </p></b>
 
-<embed> https://youtu.be/oUKoKYMpXRE </embed>
+<p><a href= "https://youtu.be/oUKoKYMpXRE" 
+      <img src="https://www.youtube.com/upload_thumbnail?v=oUKoKYMpXRE&t=hqdefault&ts=1559903757084"  alt="to_video" style="max-width:100%;">
+  </a></p>
